@@ -1,0 +1,22 @@
+{
+  "name": "dragons-api-aws-backend",
+  "version": "1.0.0",
+  "description": "AWS Serverless API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kripu77/Dragons-API-AWS-Backend.git"
+  },
+  "author": "Kripu K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kripu77/Dragons-API-AWS-Backend/issues"
+  },
+  "homepage": "https://github.com/Kripu77/Dragons-API-AWS-Backend#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1194.0"
+  }
+}
